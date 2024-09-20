@@ -1,0 +1,14 @@
+/home/zhangbin/work/src/flatbuffers/build/CMakeFiles/install/strip.dir
+/home/zhangbin/work/src/flatbuffers/build/CMakeFiles/install/local.dir
+/home/zhangbin/work/src/flatbuffers/build/CMakeFiles/install.dir
+/home/zhangbin/work/src/flatbuffers/build/CMakeFiles/flatbuffers.dir
+/home/zhangbin/work/src/flatbuffers/build/CMakeFiles/flatsamplebfbs.dir
+/home/zhangbin/work/src/flatbuffers/build/CMakeFiles/flatsampletext.dir
+/home/zhangbin/work/src/flatbuffers/build/CMakeFiles/flattests.dir
+/home/zhangbin/work/src/flatbuffers/build/CMakeFiles/test.dir
+/home/zhangbin/work/src/flatbuffers/build/CMakeFiles/flatsamplebinary.dir
+/home/zhangbin/work/src/flatbuffers/build/CMakeFiles/flatc.dir
+/home/zhangbin/work/src/flatbuffers/build/CMakeFiles/flatsample.dir
+/home/zhangbin/work/src/flatbuffers/build/CMakeFiles/edit_cache.dir
+/home/zhangbin/work/src/flatbuffers/build/CMakeFiles/rebuild_cache.dir
+/home/zhangbin/work/src/flatbuffers/build/CMakeFiles/list_install_components.dir

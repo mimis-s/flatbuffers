@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "tests/alignment_test_generated.h"
+  "tests/arrays_test_generated.h"
+  "tests/native_inline_table_test_generated.h"
+  "tests/native_type_test_generated.h"
+  "tests/key_field/key_field_sample_generated.h"
+  "tests/64bit/test_64bit_generated.h"
+  "tests/64bit/evolution/v1_generated.h"
+  "tests/64bit/evolution/v2_generated.h"
+  "tests/union_underlying_type_test_generated.h"
+  "CMakeFiles/flattests.dir/src/idl_parser.cpp.o"
+  "CMakeFiles/flattests.dir/src/idl_gen_text.cpp.o"
+  "CMakeFiles/flattests.dir/src/reflection.cpp.o"
+  "CMakeFiles/flattests.dir/src/util.cpp.o"
+  "CMakeFiles/flattests.dir/src/idl_gen_fbs.cpp.o"
+  "CMakeFiles/flattests.dir/tests/evolution_test.cpp.o"
+  "CMakeFiles/flattests.dir/tests/flexbuffers_test.cpp.o"
+  "CMakeFiles/flattests.dir/tests/fuzz_test.cpp.o"
+  "CMakeFiles/flattests.dir/tests/json_test.cpp.o"
+  "CMakeFiles/flattests.dir/tests/key_field_test.cpp.o"
+  "CMakeFiles/flattests.dir/tests/monster_test.cpp.o"
+  "CMakeFiles/flattests.dir/tests/optional_scalars_test.cpp.o"
+  "CMakeFiles/flattests.dir/tests/parser_test.cpp.o"
+  "CMakeFiles/flattests.dir/tests/proto_test.cpp.o"
+  "CMakeFiles/flattests.dir/tests/reflection_test.cpp.o"
+  "CMakeFiles/flattests.dir/tests/test.cpp.o"
+  "CMakeFiles/flattests.dir/tests/test_assert.cpp.o"
+  "CMakeFiles/flattests.dir/tests/test_builder.cpp.o"
+  "CMakeFiles/flattests.dir/tests/util_test.cpp.o"
+  "CMakeFiles/flattests.dir/tests/native_type_test_impl.cpp.o"
+  "CMakeFiles/flattests.dir/tests/alignment_test.cpp.o"
+  "CMakeFiles/flattests.dir/tests/64bit/offset64_test.cpp.o"
+  "CMakeFiles/flattests.dir/src/code_generators.cpp.o"
+  "flattests.pdb"
+  "flattests"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/flattests.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
